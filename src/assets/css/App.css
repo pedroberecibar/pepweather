@@ -1,0 +1,43 @@
+body{
+  background-color: #2F3544;
+}
+
+.App {
+  text-align: center;
+}
+
+.input-group  {
+  width: 60%;
+}
+
+.card {
+  max-width: 70%;
+}
+
+.card-title {
+  position: absolute;
+  padding: 20px;
+}
+
+.card-date {
+  position: absolute;
+  margin-top: 70px;
+  padding-left: 20px;
+}
+
+.card-temp {
+  position: absolute;
+  padding-left: 20px;
+  bottom: 60px;
+  font-size: 50px;
+}
+
+.card-desc {
+  position: absolute;
+  padding-left: 20px;
+  bottom: 5px;
+}
+
+.forecast-col {
+  width: 80%;
+}
