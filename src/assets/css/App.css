@@ -41,3 +41,20 @@ body{
 .forecast-col {
   width: 80%;
 }
+
+@media (max-width:738px) {
+  .card {
+    max-width: 90%;
+  }
+  .card-temp {
+    position: absolute;
+    padding-left: 20px;
+    top: 280px;
+    font-size: 50px;
+  }
+  .card-desc {
+    position: absolute;
+    padding-left: 20px;
+    top: 330px;
+  }
+}
