@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pepweather/static/css/main.9652bc54.css",
+    "main.js": "/pepweather/static/js/main.0012fa72.js",
+    "static/js/787.c5d29042.chunk.js": "/pepweather/static/js/787.c5d29042.chunk.js",
+    "index.html": "/pepweather/index.html",
+    "main.9652bc54.css.map": "/pepweather/static/css/main.9652bc54.css.map",
+    "main.0012fa72.js.map": "/pepweather/static/js/main.0012fa72.js.map",
+    "787.c5d29042.chunk.js.map": "/pepweather/static/js/787.c5d29042.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9652bc54.css",
+    "static/js/main.0012fa72.js"
+  ]
+}
